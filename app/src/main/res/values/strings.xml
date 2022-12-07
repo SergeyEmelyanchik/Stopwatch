@@ -4,4 +4,8 @@
     <string name="button_start">START</string>
     <string name="button_pause">PAUSE</string>
     <string name="button_stop">STOP</string>
+    <string name="button_start_all">START ALL</string>
+    <string name="button_pause_all">PAUSE ALL</string>
+    <string name="button_stop_all">STOP ALL</string>
+
 </resources>
